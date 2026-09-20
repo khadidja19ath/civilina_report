@@ -1,0 +1,61 @@
+Activity_ID,Lot,Activité,Zone,Sous_traitant,Début_prévu,Fin_prévue,Quantité_prévue,Unité,Coût_prévu_DA,Poids_KPI,Statut_Budget
+ACT-001,Génie civil,Terrassement,Zone C,ST Beta,2026-06-29,2026-07-10,344.8,t,3380000,0.8,Dépassement
+ACT-002,CVC / Plomberie,Réseau EF/EC,Zone A,ST Alpha,2026-06-28,2026-07-12,32.7,ml,2398000,3.01,Dans le budget
+ACT-003,CVC / Plomberie,Évacuation,Locaux techniques,ST Epsilon,2026-07-06,2026-08-07,384.2,ml,3945000,2.94,Dans le budget
+ACT-004,Électricité,Éclairage,Zone B,ST Beta,2026-07-14,2026-07-24,66.4,u,644000,2.61,Dans le budget
+ACT-005,Génie civil,Maçonnerie,Administration,ST Alpha,2026-07-19,2026-07-28,418.1,t,2596000,3.6,Dans le budget
+ACT-006,Électricité,Mise à la terre,Zone A,ST Alpha,2026-06-30,2026-07-31,58.3,ml,1480000,3.53,Dans le budget
+ACT-007,CVC / Plomberie,Ventilation,Locaux techniques,ST Gamma,2026-06-21,2026-07-09,341.7,m²,1760000,2.63,Dans le budget
+ACT-008,Charpente métallique,Bardage,Zone B,ST Delta,2026-07-19,2026-08-03,327.2,t,4455000,1.27,Dans le budget
+ACT-009,Électricité,Chemins de câbles,Zone B,ST Alpha,2026-07-11,2026-07-30,121.3,t,1388000,3.57,Dans le budget
+ACT-010,Électricité,Mise à la terre,Locaux techniques,ST Delta,2026-07-29,2026-08-09,138.4,t,1376000,2.39,Dépassement
+ACT-011,CVC / Plomberie,Équipements sanitaires,Zone C,ST Beta,2026-06-18,2026-07-11,382.8,m²,2347000,1.03,Dans le budget
+ACT-012,Charpente métallique,Serrurerie,Administration,ST Alpha,2026-07-20,2026-08-08,244.7,u,2783000,3.9,Dépassement
+ACT-013,Génie civil,Terrassement,Administration,ST Gamma,2026-07-14,2026-07-24,95.9,m²,1497000,3.84,Dans le budget
+ACT-014,Électricité,Mise à la terre,Administration,ST Alpha,2026-07-09,2026-08-11,312.3,ml,2966000,1.81,Dépassement
+ACT-015,Charpente métallique,Montage charpente,Administration,ST Beta,2026-08-02,2026-08-09,194.2,u,725000,1.34,Dans le budget
+ACT-016,Charpente métallique,Montage charpente,Zone A,ST Delta,2026-06-09,2026-07-10,80.4,m³,2514000,3.81,Dans le budget
+ACT-017,Charpente métallique,Couverture,Administration,ST Epsilon,2026-07-25,2026-08-07,382.5,ml,4198000,3.0,Dans le budget
+ACT-018,CVC / Plomberie,Ventilation,Locaux techniques,ST Epsilon,2026-07-28,2026-08-07,50.7,m²,1304000,2.56,Dans le budget
+ACT-019,Charpente métallique,Bardage,Zone A,ST Alpha,2026-06-08,2026-06-22,35.1,u,536000,0.75,Dans le budget
+ACT-020,Charpente métallique,Couverture,Locaux techniques,ST Beta,2026-08-09,2026-08-20,443.5,t,3324000,2.15,Dans le budget
+ACT-021,CVC / Plomberie,Équipements sanitaires,Zone B,ST Alpha,2026-06-13,2026-07-11,223.3,m³,2082000,3.52,Dans le budget
+ACT-022,Génie civil,Terrassement,Zone A,ST Delta,2026-07-14,2026-08-15,139.4,ml,3912000,2.38,Dépassement
+ACT-023,Charpente métallique,Serrurerie,Zone B,ST Gamma,2026-07-30,2026-08-13,56.2,t,3967000,0.84,Dépassement
+ACT-024,Génie civil,Terrassement,Zone B,ST Beta,2026-07-23,2026-08-14,435.0,m²,2296000,1.08,Dans le budget
+ACT-025,Génie civil,Maçonnerie,Zone C,ST Delta,2026-07-07,2026-07-27,370.6,t,3211000,2.82,Dépassement
+ACT-026,CVC / Plomberie,Évacuation,Zone B,ST Gamma,2026-06-28,2026-07-06,280.3,u,2712000,0.7,Dépassement
+ACT-027,CVC / Plomberie,Évacuation,Zone A,ST Epsilon,2026-06-11,2026-07-15,305.6,ml,1040000,1.91,Dépassement
+ACT-028,Charpente métallique,Montage charpente,Administration,ST Alpha,2026-07-24,2026-08-21,270.9,u,2731000,1.21,Dans le budget
+ACT-029,Électricité,Mise à la terre,Zone C,ST Delta,2026-06-17,2026-07-15,239.5,m²,2993000,0.53,Dans le budget
+ACT-030,Génie civil,Terrassement,Administration,ST Beta,2026-08-04,2026-08-19,187.5,m²,813000,3.58,Dépassement
+ACT-031,Électricité,Éclairage,Zone B,ST Delta,2026-08-09,2026-09-07,492.2,t,1536000,0.53,Dans le budget
+ACT-032,Électricité,Chemins de câbles,Zone B,ST Gamma,2026-06-15,2026-07-20,285.5,u,705000,1.49,Dans le budget
+ACT-033,Charpente métallique,Couverture,Zone B,ST Gamma,2026-08-04,2026-08-26,455.9,m²,1317000,0.82,Dans le budget
+ACT-034,CVC / Plomberie,Ventilation,Zone A,ST Alpha,2026-07-13,2026-08-13,490.3,ml,806000,3.09,Dans le budget
+ACT-035,CVC / Plomberie,Réseau EF/EC,Zone A,ST Alpha,2026-06-20,2026-07-14,197.2,t,403000,1.02,Dans le budget
+ACT-036,Charpente métallique,Montage charpente,Zone C,ST Gamma,2026-06-06,2026-07-11,347.4,m²,1771000,1.74,Dans le budget
+ACT-037,CVC / Plomberie,Évacuation,Zone B,ST Beta,2026-06-23,2026-07-28,106.1,u,2002000,3.24,Dépassement
+ACT-038,CVC / Plomberie,Évacuation,Zone C,ST Beta,2026-06-14,2026-07-03,432.1,ml,3957000,1.2,Dépassement
+ACT-039,CVC / Plomberie,Ventilation,Zone C,ST Beta,2026-06-29,2026-07-06,211.3,u,3055000,3.53,Dans le budget
+ACT-040,Électricité,Éclairage,Administration,ST Delta,2026-08-08,2026-08-25,75.4,u,4242000,1.12,Dépassement
+ACT-041,Électricité,Chemins de câbles,Zone A,ST Epsilon,2026-07-26,2026-08-13,170.6,t,3346000,3.94,Dans le budget
+ACT-042,Génie civil,Maçonnerie,Administration,ST Beta,2026-07-03,2026-07-11,20.8,t,3262000,2.9,Dans le budget
+ACT-043,Charpente métallique,Couverture,Locaux techniques,ST Alpha,2026-07-13,2026-08-08,427.0,u,1584000,2.27,Dépassement
+ACT-044,CVC / Plomberie,Ventilation,Locaux techniques,ST Gamma,2026-08-10,2026-08-21,339.2,m³,1065000,2.87,Dans le budget
+ACT-045,Charpente métallique,Couverture,Locaux techniques,ST Epsilon,2026-06-01,2026-06-17,226.3,t,1469000,2.62,Dans le budget
+ACT-046,Électricité,Tableaux électriques,Locaux techniques,ST Delta,2026-06-28,2026-07-21,452.6,ml,2261000,2.81,Dans le budget
+ACT-047,Électricité,Éclairage,Zone A,ST Beta,2026-07-10,2026-07-24,90.7,m²,3678000,1.36,Dans le budget
+ACT-048,CVC / Plomberie,Réseau EF/EC,Locaux techniques,ST Delta,2026-06-25,2026-07-24,257.3,ml,3210000,1.02,Dépassement
+ACT-049,Génie civil,Terrassement,Locaux techniques,ST Beta,2026-06-23,2026-07-25,268.6,m²,4321000,2.45,Dans le budget
+ACT-050,Génie civil,Maçonnerie,Zone B,ST Delta,2026-08-07,2026-08-31,476.0,m³,2781000,2.64,Dans le budget
+ACT-051,CVC / Plomberie,Équipements sanitaires,Zone B,ST Delta,2026-07-28,2026-08-12,423.1,u,3445000,3.18,Dépassement
+ACT-052,CVC / Plomberie,Évacuation,Zone C,ST Delta,2026-06-10,2026-07-09,150.4,u,1464000,3.63,Dans le budget
+ACT-053,Génie civil,Fondations,Zone B,ST Beta,2026-07-20,2026-08-18,122.7,m³,899000,1.93,Dans le budget
+ACT-054,CVC / Plomberie,Équipements sanitaires,Zone A,ST Beta,2026-07-24,2026-08-12,300.4,m²,4096000,3.5,Dans le budget
+ACT-055,CVC / Plomberie,Équipements sanitaires,Zone A,ST Gamma,2026-07-09,2026-08-09,448.0,m³,1907000,2.38,Dépassement
+ACT-056,Charpente métallique,Serrurerie,Zone B,ST Gamma,2026-07-26,2026-08-17,181.3,m³,373000,3.03,Dans le budget
+ACT-057,CVC / Plomberie,Évacuation,Administration,ST Epsilon,2026-06-04,2026-06-23,338.2,m²,2766000,2.75,Dans le budget
+ACT-058,Charpente métallique,Serrurerie,Zone B,ST Alpha,2026-07-04,2026-07-23,238.3,u,1641000,3.16,Dans le budget
+ACT-059,CVC / Plomberie,Ventilation,Locaux techniques,ST Gamma,2026-06-11,2026-07-03,278.9,u,332000,1.28,Dans le budget
+ACT-060,Génie civil,Terrassement,Zone A,ST Beta,2026-06-26,2026-07-29,93.1,ml,337000,2.16,Dépassement

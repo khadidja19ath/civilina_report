@@ -1,0 +1,481 @@
+Date_snapshot,Activity_ID,Avancement_prévu_pct,Avancement_réel_pct,Quantité_réalisée,Coût_réel_cumulé_DA,Début_réel,Fin_réelle,Statut,Flag_Avancement,Coût_Precedent,Ecart_Cout,Flag_Cout,Flag_Date,Avancement_Precedent,Quantité_Precedente,Flag_Evolution_Apres_Fin,Flag_Cout_Décroissant,Flag_Statut_Incohérent,Score_Risque,Niveau_Risque
+2026-07-20,ACT-001,100.0,100.0,344.8,3689800,2026-06-28,2026-07-19,Terminée,Valeur originale,3536800.0,153000.0,Croissance,OK,100.0,344.8,OK,Normal,Cohérent,0,Normal
+2026-08-10,ACT-001,100.0,100.0,344.8,3388200,2026-06-28,2026-07-22,Terminée,Valeur originale,3024600.0,363600.0,Croissance,OK,100.0,344.8,OK,Normal,Cohérent,0,Normal
+2026-08-17,ACT-001,100.0,100.0,344.8,3249000,2026-06-28,2026-07-19,Terminée,Valeur originale,3388200.0,-139200.0,Décroissance,OK,100.0,344.8,OK,Décroissance,Cohérent,1,À surveiller
+2026-08-10,ACT-004,100.0,100.0,66.4,601200,2026-07-19,2026-07-22,Terminée,Valeur originale,601700.0,-500.0,Décroissance,OK,100.0,66.4,OK,Décroissance,Cohérent,1,À surveiller
+2026-08-17,ACT-004,100.0,100.0,66.4,588600,2026-07-19,2026-07-25,Terminée,Valeur originale,601200.0,-12600.0,Décroissance,OK,100.0,66.4,OK,Décroissance,Cohérent,1,À surveiller
+2026-08-24,ACT-004,100.0,100.0,66.4,632600,2026-07-19,2026-08-03,Terminée,Valeur originale,588600.0,44000.0,Croissance,OK,100.0,66.4,OK,Normal,Cohérent,0,Normal
+2026-08-17,ACT-008,100.0,100.0,327.2,4411300,2026-07-18,2026-08-08,Terminée,Valeur originale,4486700.0,-75400.0,Décroissance,OK,100.0,327.2,OK,Décroissance,Cohérent,1,À surveiller
+2026-08-24,ACT-008,100.0,100.0,327.2,4180500,2026-07-18,2026-08-10,Terminée,Valeur originale,4411300.0,-230800.0,Décroissance,OK,100.0,327.2,OK,Décroissance,Cohérent,1,À surveiller
+2026-08-24,ACT-010,100.0,100.0,138.4,1434200,2026-07-31,2026-08-16,Terminée,Valeur originale,1216000.0,218200.0,Croissance,OK,100.0,138.4,OK,Normal,Cohérent,0,Normal
+2026-07-20,ACT-011,100.0,100.0,382.8,2308400,2026-06-20,2026-07-10,Terminée,Valeur originale,2259200.0,49200.0,Croissance,OK,100.0,382.8,OK,Normal,Cohérent,0,Normal
+2026-07-27,ACT-011,100.0,100.0,382.8,2522000,2026-06-20,2026-07-20,Terminée,Valeur originale,2308400.0,213600.0,Croissance,OK,100.0,382.8,OK,Normal,Cohérent,0,Normal
+2026-08-03,ACT-011,100.0,100.0,382.8,2177000,2026-06-20,2026-07-10,Terminée,Valeur originale,2522000.0,-345000.0,Décroissance,OK,100.0,382.8,OK,Décroissance,Cohérent,1,À surveiller
+2026-08-10,ACT-011,100.0,100.0,382.8,2405900,2026-06-20,2026-07-22,Terminée,Valeur originale,2177000.0,228900.0,Croissance,OK,100.0,382.8,OK,Normal,Cohérent,0,Normal
+2026-08-17,ACT-011,100.0,100.0,382.8,2555100,2026-06-20,2026-07-21,Terminée,Valeur originale,2405900.0,149200.0,Croissance,OK,100.0,382.8,OK,Normal,Cohérent,0,Normal
+2026-08-24,ACT-011,100.0,100.0,382.8,2187400,2026-06-20,2026-07-09,Terminée,Valeur originale,2555100.0,-367700.0,Décroissance,OK,100.0,382.8,OK,Décroissance,Cohérent,1,À surveiller
+2026-07-20,ACT-016,100.0,100.0,80.4,2470300,2026-06-15,2026-07-10,Terminée,Valeur originale,2671400.0,-201100.0,Décroissance,OK,100.0,80.4,OK,Décroissance,Cohérent,1,À surveiller
+2026-07-27,ACT-016,100.0,100.0,80.4,2467200,2026-06-15,2026-07-13,Terminée,Valeur originale,2470300.0,-3100.0,Décroissance,OK,100.0,80.4,OK,Décroissance,Cohérent,1,À surveiller
+2026-08-03,ACT-016,100.0,100.0,80.4,2501400,2026-06-15,2026-07-15,Terminée,Valeur originale,2467200.0,34200.0,Croissance,OK,100.0,80.4,OK,Normal,Cohérent,0,Normal
+2026-08-10,ACT-016,100.0,100.0,80.4,2690000,2026-06-15,2026-07-19,Terminée,Valeur originale,2501400.0,188600.0,Croissance,OK,100.0,80.4,OK,Normal,Cohérent,0,Normal
+2026-08-17,ACT-016,100.0,100.0,80.4,2408600,2026-06-15,2026-07-21,Terminée,Valeur originale,2690000.0,-281400.0,Décroissance,OK,100.0,80.4,OK,Décroissance,Cohérent,1,À surveiller
+2026-08-24,ACT-016,100.0,100.0,80.4,2212400,2026-06-15,2026-07-19,Terminée,Valeur originale,2408600.0,-196200.0,Décroissance,OK,100.0,80.4,OK,Décroissance,Cohérent,1,À surveiller
+2026-08-17,ACT-018,100.0,100.0,50.7,1396100,2026-08-05,2026-08-05,Terminée,Valeur originale,1322500.0,73600.0,Croissance,OK,100.0,50.7,OK,Normal,Cohérent,0,Normal
+2026-08-24,ACT-022,100.0,100.0,139.4,4094000,2026-07-18,2026-08-23,Terminée,Valeur originale,3962100.0,131900.0,Croissance,OK,100.0,139.4,OK,Normal,Cohérent,0,Normal
+2026-08-24,ACT-024,100.0,100.0,435.0,2045200,2026-07-23,2026-08-18,Terminée,Valeur originale,2508300.0,-463100.0,Décroissance,OK,100.0,435.0,OK,Décroissance,Cohérent,1,À surveiller
+2026-08-10,ACT-025,100.0,100.0,370.6,3035800,2026-07-05,2026-08-03,Terminée,Valeur originale,2812100.0,223700.0,Croissance,OK,100.0,370.6,OK,Normal,Cohérent,0,Normal
+2026-08-17,ACT-025,100.0,100.0,370.6,2840300,2026-07-05,2026-08-07,Terminée,Valeur originale,3035800.0,-195500.0,Décroissance,OK,100.0,370.6,OK,Décroissance,Cohérent,1,À surveiller
+2026-08-24,ACT-025,100.0,100.0,370.6,3311300,2026-07-05,2026-08-04,Terminée,Valeur originale,2840300.0,471000.0,Croissance,OK,100.0,370.6,OK,Normal,Cohérent,0,Normal
+2026-08-10,ACT-027,100.0,100.0,305.6,990600,2026-06-16,2026-07-19,Terminée,Valeur originale,992700.0,-2100.0,Décroissance,OK,100.0,305.6,OK,Décroissance,Cohérent,1,À surveiller
+2026-07-27,ACT-029,100.0,100.0,239.5,2850500,2026-06-19,2026-07-25,Terminée,Valeur originale,3059000.0,-208500.0,Décroissance,OK,100.0,239.5,OK,Décroissance,Cohérent,1,À surveiller
+2026-08-03,ACT-029,100.0,100.0,239.5,2826800,2026-06-19,2026-07-15,Terminée,Valeur originale,2850500.0,-23700.0,Décroissance,OK,100.0,239.5,OK,Décroissance,Cohérent,1,À surveiller
+2026-08-10,ACT-029,100.0,100.0,239.5,2691200,2026-06-19,2026-07-19,Terminée,Valeur originale,2826800.0,-135600.0,Décroissance,OK,100.0,239.5,OK,Décroissance,Cohérent,1,À surveiller
+2026-08-17,ACT-029,100.0,100.0,239.5,3117200,2026-06-19,2026-07-20,Terminée,Valeur originale,2691200.0,426000.0,Croissance,OK,100.0,239.5,OK,Normal,Cohérent,0,Normal
+2026-08-24,ACT-029,100.0,100.0,239.5,2853100,2026-06-19,2026-07-22,Terminée,Valeur originale,3117200.0,-264100.0,Décroissance,OK,100.0,239.5,OK,Décroissance,Cohérent,1,À surveiller
+2026-08-10,ACT-037,100.0,100.0,106.1,1940000,2026-06-29,2026-07-28,Terminée,Valeur originale,1892800.0,47200.0,Croissance,OK,100.0,106.1,OK,Normal,Cohérent,0,Normal
+2026-08-17,ACT-037,100.0,100.0,106.1,2065800,2026-06-29,2026-08-03,Terminée,Valeur originale,1940000.0,125800.0,Croissance,OK,100.0,106.1,OK,Normal,Cohérent,0,Normal
+2026-08-24,ACT-037,100.0,100.0,106.1,2049300,2026-06-29,2026-07-31,Terminée,Valeur originale,2065800.0,-16500.0,Décroissance,OK,100.0,106.1,OK,Décroissance,Cohérent,1,À surveiller
+2026-07-27,ACT-038,100.0,100.0,432.1,4025200,2026-06-13,2026-07-05,Terminée,Valeur originale,3966600.0,58600.0,Croissance,OK,100.0,432.1,OK,Normal,Cohérent,0,Normal
+2026-08-17,ACT-038,100.0,100.0,432.1,4070200,2026-06-13,2026-07-06,Terminée,Valeur originale,4171900.0,-101700.0,Décroissance,OK,100.0,432.1,OK,Décroissance,Cohérent,1,À surveiller
+2026-07-13,ACT-039,100.0,100.0,211.3,2875900,2026-06-30,2026-07-09,Terminée,Valeur originale,2939200.0,-63300.0,Décroissance,OK,100.0,211.3,OK,Décroissance,Cohérent,1,À surveiller
+2026-07-20,ACT-039,100.0,100.0,211.3,3205300,2026-06-30,2026-07-05,Terminée,Valeur originale,2875900.0,329400.0,Croissance,OK,100.0,211.3,OK,Normal,Cohérent,0,Normal
+2026-07-27,ACT-039,100.0,100.0,211.3,2738000,2026-06-30,2026-07-12,Terminée,Valeur originale,3205300.0,-467300.0,Décroissance,OK,100.0,211.3,OK,Décroissance,Cohérent,1,À surveiller
+2026-07-27,ACT-042,100.0,100.0,20.8,3373900,2026-07-10,2026-07-17,Terminée,Valeur originale,3446400.0,-72500.0,Décroissance,OK,100.0,20.8,OK,Décroissance,Cohérent,1,À surveiller
+2026-08-03,ACT-042,100.0,100.0,20.8,2867300,2026-07-10,2026-07-20,Terminée,Valeur originale,3373900.0,-506600.0,Décroissance,OK,100.0,20.8,OK,Décroissance,Cohérent,1,À surveiller
+2026-08-10,ACT-042,100.0,100.0,20.8,3167600,2026-07-10,2026-07-17,Terminée,Valeur originale,2867300.0,300300.0,Croissance,OK,100.0,20.8,OK,Normal,Cohérent,0,Normal
+2026-08-17,ACT-042,100.0,100.0,20.8,3111000,2026-07-10,2026-07-23,Terminée,Valeur originale,3167600.0,-56600.0,Décroissance,OK,100.0,20.8,OK,Décroissance,Cohérent,1,À surveiller
+2026-08-24,ACT-042,100.0,100.0,20.8,3144600,2026-07-10,2026-07-14,Terminée,Valeur originale,3111000.0,33600.0,Croissance,OK,100.0,20.8,OK,Normal,Cohérent,0,Normal
+2026-08-03,ACT-046,100.0,100.0,452.6,2244800,2026-07-05,2026-07-23,Terminée,Valeur originale,2358300.0,-113500.0,Décroissance,OK,100.0,452.6,OK,Décroissance,Cohérent,1,À surveiller
+2026-08-10,ACT-046,100.0,100.0,452.6,2375000,2026-07-05,2026-08-02,Terminée,Valeur originale,2244800.0,130200.0,Croissance,OK,100.0,452.6,OK,Normal,Cohérent,0,Normal
+2026-08-17,ACT-046,100.0,100.0,452.6,2158400,2026-07-05,2026-07-28,Terminée,Valeur originale,2375000.0,-216600.0,Décroissance,OK,100.0,452.6,OK,Décroissance,Cohérent,1,À surveiller
+2026-08-24,ACT-046,100.0,100.0,452.6,2207200,2026-07-05,2026-07-23,Terminée,Valeur originale,2158400.0,48800.0,Croissance,OK,100.0,452.6,OK,Normal,Cohérent,0,Normal
+2026-08-10,ACT-047,100.0,100.0,90.7,3919900,2026-07-14,2026-07-26,Terminée,Valeur originale,3990200.0,-70300.0,Décroissance,OK,100.0,90.7,OK,Décroissance,Cohérent,1,À surveiller
+2026-08-03,ACT-048,100.0,100.0,257.3,3069500,2026-06-29,2026-07-22,Terminée,Valeur originale,3068800.0,700.0,Croissance,OK,100.0,257.3,OK,Normal,Cohérent,0,Normal
+2026-08-10,ACT-048,100.0,100.0,257.3,2865900,2026-06-29,2026-08-02,Terminée,Valeur originale,3069500.0,-203600.0,Décroissance,OK,100.0,257.3,OK,Décroissance,Cohérent,1,À surveiller
+2026-08-17,ACT-048,100.0,100.0,257.3,3377000,2026-06-29,2026-07-24,Terminée,Valeur originale,2865900.0,511100.0,Croissance,OK,100.0,257.3,OK,Normal,Cohérent,0,Normal
+2026-08-24,ACT-048,100.0,100.0,257.3,3470000,2026-06-29,2026-07-29,Terminée,Valeur originale,3377000.0,93000.0,Croissance,OK,100.0,257.3,OK,Normal,Cohérent,0,Normal
+2026-08-10,ACT-049,100.0,100.0,268.6,4058600,2026-06-23,2026-07-23,Terminée,Valeur originale,4179900.0,-121300.0,Décroissance,OK,100.0,268.6,OK,Décroissance,Cohérent,1,À surveiller
+2026-08-17,ACT-049,100.0,100.0,268.6,4394300,2026-06-23,2026-08-01,Terminée,Valeur originale,4058600.0,335700.0,Croissance,OK,100.0,268.6,OK,Normal,Cohérent,0,Normal
+2026-08-24,ACT-049,100.0,100.0,268.6,3869400,2026-06-23,2026-08-06,Terminée,Valeur originale,4394300.0,-524900.0,Décroissance,OK,100.0,268.6,OK,Décroissance,Cohérent,1,À surveiller
+2026-08-24,ACT-051,100.0,100.0,423.1,3641700,2026-08-03,2026-08-12,Terminée,Valeur originale,3102900.0,538800.0,Croissance,OK,100.0,423.1,OK,Normal,Cohérent,0,Normal
+2026-07-20,ACT-052,100.0,100.0,150.4,1591400,2026-06-18,2026-07-07,Terminée,Valeur originale,1546900.0,44500.0,Croissance,OK,100.0,150.4,OK,Normal,Cohérent,0,Normal
+2026-07-27,ACT-052,100.0,100.0,150.4,1288400,2026-06-18,2026-07-10,Terminée,Valeur originale,1591400.0,-303000.0,Décroissance,OK,100.0,150.4,OK,Décroissance,Cohérent,1,À surveiller
+2026-08-03,ACT-052,100.0,100.0,150.4,1379900,2026-06-18,2026-07-11,Terminée,Valeur originale,1288400.0,91500.0,Croissance,OK,100.0,150.4,OK,Normal,Cohérent,0,Normal
+2026-08-10,ACT-052,100.0,100.0,150.4,1606700,2026-06-18,2026-07-15,Terminée,Valeur originale,1379900.0,226800.0,Croissance,OK,100.0,150.4,OK,Normal,Cohérent,0,Normal
+2026-08-17,ACT-052,100.0,100.0,150.4,1286000,2026-06-18,2026-07-17,Terminée,Valeur originale,1606700.0,-320700.0,Décroissance,OK,100.0,150.4,OK,Décroissance,Cohérent,1,À surveiller
+2026-08-24,ACT-052,100.0,100.0,150.4,1393900,2026-06-18,2026-07-19,Terminée,Valeur originale,1286000.0,107900.0,Croissance,OK,100.0,150.4,OK,Normal,Cohérent,0,Normal
+2026-08-24,ACT-054,100.0,100.0,300.4,3634200,2026-07-24,2026-08-20,Terminée,Valeur originale,3822200.0,-188000.0,Décroissance,OK,100.0,300.4,OK,Décroissance,Cohérent,1,À surveiller
+2026-08-24,ACT-057,100.0,100.0,338.2,2517200,2026-06-09,2026-06-26,Terminée,Valeur originale,2859300.0,-342100.0,Décroissance,OK,100.0,338.2,OK,Décroissance,Cohérent,1,À surveiller
+2026-08-10,ACT-060,100.0,100.0,93.1,332100,2026-06-29,2026-07-29,Terminée,Valeur originale,341600.0,-9500.0,Décroissance,OK,100.0,93.1,OK,Décroissance,Cohérent,1,À surveiller
+2026-08-17,ACT-060,100.0,100.0,93.1,338200,2026-06-29,2026-07-29,Terminée,Valeur originale,332100.0,6100.0,Croissance,OK,100.0,93.1,OK,Normal,Cohérent,0,Normal
+2026-08-24,ACT-060,100.0,100.0,93.1,349000,2026-06-29,2026-08-05,Terminée,Valeur originale,338200.0,10800.0,Croissance,OK,100.0,93.1,OK,Normal,Cohérent,0,Normal
+2026-08-24,ACT-001,100.0,100.0,344.7,3400300,2026-06-28,2026-07-21,Terminée,Valeur originale,3249000.0,151300.0,Croissance,OK,100.0,344.8,À vérifier,Normal,Cohérent,0,Normal
+2026-08-10,ACT-008,100.0,100.0,327.2,4486700,2026-07-18,2026-08-10,Terminée,Valeur originale,3997200.0,489500.0,Croissance,OK,100.0,327.2,Non concerné,Normal,Cohérent,0,Normal
+2026-08-17,ACT-010,100.0,100.0,138.4,1216000,2026-07-31,2026-08-19,Terminée,Valeur originale,1484600.0,-268600.0,Décroissance,OK,100.0,138.4,Non concerné,Décroissance,Cohérent,1,À surveiller
+2026-08-03,ACT-025,100.0,100.0,370.6,2812100,2026-07-05,2026-08-08,Terminée,Valeur originale,3067900.0,-255800.0,Décroissance,OK,100.0,370.6,Non concerné,Décroissance,Cohérent,1,À surveiller
+2026-07-20,ACT-042,100.0,100.0,20.8,3446400,2026-07-10,2026-07-22,Terminée,Valeur originale,2951100.0,495300.0,Croissance,OK,100.0,20.8,Non concerné,Normal,Cohérent,0,Normal
+2026-07-27,ACT-046,100.0,100.0,452.6,2358300,2026-07-05,2026-07-31,Terminée,Valeur originale,2102400.0,255900.0,Croissance,OK,100.0,452.6,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-001,100.0,100.0,344.8,3536800,2026-06-28,2026-07-10,Terminée,Valeur originale,2102200.0,1434600.0,Croissance,OK,67.3,232.0,À vérifier,Normal,Cohérent,0,Normal
+2026-08-03,ACT-001,100.0,100.0,344.8,3024600,2026-06-28,2026-07-08,Terminée,Valeur originale,3546900.0,-522300.0,Décroissance,OK,99.1,341.9,À vérifier,Décroissance,Cohérent,1,À surveiller
+2026-08-24,ACT-003,100.0,100.0,384.2,3510800,2026-07-09,2026-08-19,Terminée,Valeur originale,4023500.0,-512700.0,Décroissance,OK,95.7,367.6,À vérifier,Décroissance,Cohérent,1,À surveiller
+2026-08-03,ACT-004,100.0,100.0,66.4,601700,2026-07-19,2026-07-31,Terminée,Valeur originale,590600.0,11100.0,Croissance,OK,99.8,66.3,À vérifier,Normal,Cohérent,0,Normal
+2026-08-03,ACT-008,100.0,100.0,327.2,3997200,2026-07-18,2026-08-13,Terminée,Valeur originale,2623000.0,1374200.0,Croissance,OK,62.0,202.7,Non concerné,Normal,Cohérent,0,Normal
+2026-08-10,ACT-010,100.0,100.0,138.4,1484600,2026-07-31,2026-08-20,Terminée,Valeur originale,728100.0,756500.0,Croissance,OK,52.7,72.9,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-011,100.0,100.0,382.8,2259200,2026-06-20,2026-07-13,Terminée,Valeur originale,1856300.0,402900.0,Croissance,OK,80.7,308.7,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-016,100.0,100.0,80.4,2671400,2026-06-15,2026-07-17,Terminée,Valeur originale,2046300.0,625100.0,Croissance,OK,92.8,74.6,Non concerné,Normal,Cohérent,0,Normal
+2026-08-10,ACT-017,100.0,100.0,382.5,4496300,2026-07-30,2026-08-12,Terminée,Valeur originale,2839500.0,1656800.0,Croissance,OK,67.3,257.2,Non concerné,Normal,Cohérent,0,Normal
+2026-08-10,ACT-018,100.0,100.0,50.7,1322500,2026-08-05,2026-08-19,Terminée,Valeur originale,0.0,1322500.0,Croissance,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-08-24,ACT-020,100.0,100.0,443.5,3309800,2026-08-16,2026-08-19,Terminée,Valeur originale,2611100.0,698700.0,Croissance,OK,79.7,353.5,À vérifier,Normal,Cohérent,0,Normal
+2026-08-17,ACT-022,100.0,100.0,139.4,3962100,2026-07-18,2026-08-23,Terminée,Valeur originale,3516400.0,445700.0,Croissance,OK,93.4,130.3,Non concerné,Normal,Cohérent,0,Normal
+2026-08-17,ACT-024,100.0,100.0,435.0,2508300,2026-07-23,2026-08-24,Terminée,Valeur originale,2120400.0,387900.0,Croissance,OK,88.4,384.6,Non concerné,Normal,Cohérent,0,Normal
+2026-07-27,ACT-025,100.0,100.0,370.6,3067900,2026-07-05,2026-08-04,Terminée,Valeur originale,2186900.0,881000.0,Croissance,OK,70.6,261.7,Non concerné,Normal,Cohérent,0,Normal
+2026-08-03,ACT-027,100.0,100.0,305.6,992700,2026-06-16,2026-07-27,Terminée,Valeur originale,945600.0,47100.0,Croissance,OK,95.4,291.4,À vérifier,Normal,Cohérent,0,Normal
+2026-08-24,ACT-027,100.0,100.0,305.6,1101900,2026-06-16,2026-07-14,Terminée,Valeur originale,1088200.0,13700.0,Croissance,OK,95.8,292.6,À vérifier,Normal,Cohérent,0,Normal
+2026-07-20,ACT-029,100.0,100.0,239.5,3059000,2026-06-19,2026-07-13,Terminée,Valeur originale,2712500.0,346500.0,Croissance,OK,97.2,232.7,À vérifier,Normal,Cohérent,0,Normal
+2026-08-24,ACT-030,100.0,100.0,187.5,875500,2026-08-03,2026-08-22,Terminée,Valeur originale,720700.0,154800.0,Croissance,OK,85.7,160.8,À vérifier,Normal,Cohérent,0,Normal
+2026-08-10,ACT-032,100.0,100.0,285.5,624200,2026-06-19,2026-07-31,Terminée,Valeur originale,553500.0,70700.0,Croissance,OK,86.7,247.7,À vérifier,Normal,Cohérent,0,Normal
+2026-08-03,ACT-037,100.0,100.0,106.1,1892800,2026-06-29,2026-07-26,Terminée,Valeur originale,1755700.0,137100.0,Croissance,OK,97.3,103.2,À vérifier,Normal,Cohérent,0,Normal
+2026-07-06,ACT-038,100.0,100.0,432.1,4117900,2026-06-13,2026-07-07,Terminée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-20,ACT-038,100.0,100.0,432.1,3966600,2026-06-13,2026-07-10,Terminée,Valeur originale,4203400.0,-236800.0,Décroissance,OK,98.2,424.3,À vérifier,Décroissance,Cohérent,1,À surveiller
+2026-08-10,ACT-038,100.0,100.0,432.1,4171900,2026-06-13,2026-07-10,Terminée,Valeur originale,3432200.0,739700.0,Croissance,OK,99.2,428.4,À vérifier,Normal,Cohérent,0,Normal
+2026-07-06,ACT-039,100.0,100.0,211.3,2939200,2026-06-30,2026-07-05,Terminée,Valeur originale,,,Pas de comparaison,OK,,,Pas de comparaison,Normal,Cohérent,0,Normal
+2026-08-10,ACT-039,100.0,100.0,211.3,3233300,2026-06-30,2026-07-17,Terminée,Valeur originale,3201300.0,32000.0,Croissance,OK,99.9,211.2,À vérifier,Normal,Cohérent,0,Normal
+2026-08-24,ACT-039,100.0,100.0,211.3,,2026-06-30,2026-07-06,Terminée,Valeur originale,2715800.0,,Pas de comparaison,OK,99.5,210.2,À vérifier,Décroissance,Cohérent,1,À surveiller
+2026-08-24,ACT-041,100.0,100.0,170.6,2942600,2026-07-28,2026-08-25,Terminée,Valeur originale,3601800.0,-659200.0,Décroissance,OK,98.8,168.6,Non concerné,Décroissance,Cohérent,1,À surveiller
+2026-07-13,ACT-042,100.0,100.0,20.8,2951100,2026-07-10,2026-07-09,Terminée,Valeur originale,0.0,2951100.0,Croissance,Date incohérente,0.0,0.0,À vérifier,Normal,Cohérent,0,Normal
+2026-07-06,ACT-045,100.0,100.0,226.3,1393500,2026-06-01,2026-06-27,Terminée,Valeur originale,,,Pas de comparaison,OK,,,Pas de comparaison,Normal,Cohérent,0,Normal
+2026-07-27,ACT-045,100.0,100.0,226.3,1312200,2026-06-01,2026-06-27,Terminée,Valeur originale,1230800.0,81400.0,Croissance,OK,94.4,213.6,À vérifier,Normal,Cohérent,0,Normal
+2026-08-17,ACT-045,100.0,100.0,226.3,1486800,2026-06-01,2026-06-24,Terminée,Valeur originale,1475600.0,11200.0,Croissance,OK,98.3,222.4,À vérifier,Normal,Cohérent,0,Normal
+2026-08-03,ACT-047,100.0,100.0,90.7,3990200,2026-07-14,2026-08-02,Terminée,Valeur originale,3553100.0,437100.0,Croissance,OK,98.5,89.4,À vérifier,Normal,Cohérent,0,Normal
+2026-08-24,ACT-047,100.0,100.0,90.7,3634100,2026-07-14,2026-08-04,Terminée,Valeur originale,3296700.0,337400.0,Croissance,OK,98.8,89.6,À vérifier,Normal,Cohérent,0,Normal
+2026-07-27,ACT-048,100.0,100.0,257.3,3068800,2026-06-29,2026-07-28,Terminée,Valeur originale,3099600.0,-30800.0,Décroissance,OK,98.5,253.5,Non concerné,Décroissance,Cohérent,1,À surveiller
+2026-08-03,ACT-049,100.0,100.0,268.6,4179900,2026-06-23,2026-08-04,Terminée,Valeur originale,4670000.0,-490100.0,Décroissance,OK,99.5,267.2,Non concerné,Décroissance,Cohérent,1,À surveiller
+2026-08-17,ACT-051,100.0,100.0,423.1,3102900,2026-08-03,2026-08-15,Terminée,Valeur originale,3151900.0,-49000.0,Décroissance,OK,90.7,383.8,À vérifier,Décroissance,Cohérent,1,À surveiller
+2026-07-13,ACT-052,100.0,100.0,150.4,1546900,2026-06-18,2026-07-08,Terminée,Valeur originale,1480200.0,66700.0,Croissance,OK,97.3,146.3,À vérifier,Normal,Cohérent,0,Normal
+2026-08-24,ACT-053,100.0,100.0,122.7,871200,2026-07-18,2026-08-29,Terminée,Valeur originale,948800.0,-77600.0,Décroissance,OK,99.7,122.4,Non concerné,Décroissance,Cohérent,1,À surveiller
+2026-08-17,ACT-054,100.0,100.0,300.4,3822200,2026-07-24,2026-08-22,Terminée,Valeur originale,3778300.0,43900.0,Croissance,OK,96.2,288.9,Non concerné,Normal,Cohérent,0,Normal
+2026-07-20,ACT-057,100.0,100.0,338.2,3040900,2026-06-09,2026-07-03,Terminée,Valeur originale,2358800.0,682100.0,Croissance,OK,93.7,317.0,À vérifier,Normal,Cohérent,0,Normal
+2026-08-17,ACT-057,100.0,100.0,338.2,2859300,2026-06-09,2026-07-05,Terminée,Valeur originale,2926500.0,-67200.0,Décroissance,OK,98.4,332.9,À vérifier,Décroissance,Cohérent,1,À surveiller
+2026-08-17,ACT-058,100.0,100.0,238.3,1698900,2026-07-10,2026-07-29,Terminée,Valeur originale,1403300.0,295600.0,Croissance,OK,90.9,216.5,À vérifier,Normal,Cohérent,0,Normal
+2026-08-10,ACT-059,100.0,100.0,278.9,321900,2026-06-18,2026-07-15,Terminée,Valeur originale,270600.0,51300.0,Croissance,OK,89.4,249.3,À vérifier,Normal,Cohérent,0,Normal
+2026-08-03,ACT-060,100.0,100.0,93.1,341600,2026-06-29,2026-08-05,Terminée,Valeur originale,344900.0,-3300.0,Décroissance,OK,93.9,87.4,Non concerné,Décroissance,Cohérent,1,À surveiller
+2026-07-27,ACT-004,100.0,99.8,66.3,590600,2026-07-19,2026-08-03,Terminée,Valeur originale,400000.0,190600.0,Croissance,OK,58.3,38.7,Non concerné,Normal,Incohérent,1,À surveiller
+2026-08-17,ACT-006,100.0,99.8,58.2,1568000,2026-07-02,2026-08-02,Terminée,Valeur originale,1455000.0,113000.0,Croissance,OK,97.6,56.9,À vérifier,Normal,Incohérent,1,À surveiller
+2026-08-17,ACT-014,100.0,99.9,312.1,3200700,2026-07-11,2026-08-16,Terminée,Valeur originale,2445500.0,755200.0,Croissance,OK,92.5,288.9,À vérifier,Normal,Incohérent,1,À surveiller
+2026-08-17,ACT-015,100.0,99.6,193.5,674400,2026-08-02,2026-08-19,Terminée,Valeur originale,746900.0,-72500.0,Décroissance,OK,96.1,186.6,Non concerné,Décroissance,Incohérent,2,Risque
+2026-08-24,ACT-015,100.0,99.5,193.3,684300,2026-08-02,2026-08-19,Terminée,Valeur originale,674400.0,9900.0,Croissance,OK,99.6,193.5,À vérifier,Normal,Incohérent,1,À surveiller
+2026-08-24,ACT-026,100.0,99.9,279.9,2763900,2026-07-02,2026-07-17,Terminée,Valeur originale,2724700.0,39200.0,Croissance,OK,96.9,271.5,À vérifier,Normal,Incohérent,1,À surveiller
+2026-08-03,ACT-039,100.0,99.9,211.2,3201300,2026-06-30,2026-07-09,Terminée,Valeur originale,2738000.0,463300.0,Croissance,OK,100.0,211.3,À vérifier,Normal,Incohérent,1,À surveiller
+2026-07-27,ACT-057,100.0,99.8,337.6,2939000,2026-06-09,2026-06-26,Terminée,Valeur originale,3040900.0,-101900.0,Décroissance,OK,100.0,338.2,À vérifier,Décroissance,Incohérent,2,Risque
+2026-08-03,ACT-057,100.0,99.7,337.1,2848600,2026-06-09,2026-06-29,Terminée,Valeur originale,2939000.0,-90400.0,Décroissance,OK,99.8,337.6,À vérifier,Décroissance,Incohérent,2,Risque
+2026-08-03,ACT-058,100.0,99.8,237.9,1474100,2026-07-10,2026-08-04,Terminée,Valeur originale,1535500.0,-61400.0,Décroissance,OK,95.7,228.1,Non concerné,Décroissance,Incohérent,2,Risque
+2026-08-17,ACT-059,100.0,99.7,278.0,351200,2026-06-18,2026-07-09,Terminée,Valeur originale,321900.0,29300.0,Croissance,OK,100.0,278.9,À vérifier,Normal,Incohérent,1,À surveiller
+2026-07-27,ACT-001,100.0,99.1,341.9,3546900,2026-06-28,,En cours,Valeur originale,3689800.0,-142900.0,Décroissance,OK,100.0,344.8,Non concerné,Décroissance,Cohérent,2,Risque
+2026-07-27,ACT-002,100.0,95.7,31.3,2017400,2026-07-06,,En cours,Valeur originale,2476300.0,-458900.0,Décroissance,OK,98.1,32.1,Non concerné,Décroissance,Cohérent,2,Risque
+2026-08-10,ACT-002,100.0,90.7,29.7,2215900,2026-07-06,,En cours,Valeur originale,2336600.0,-120700.0,Décroissance,OK,95.3,31.2,Non concerné,Décroissance,Cohérent,2,Risque
+2026-08-17,ACT-002,100.0,90.1,29.5,2089100,2026-07-06,,En cours,Valeur originale,2215900.0,-126800.0,Décroissance,OK,90.7,29.7,Non concerné,Décroissance,Cohérent,2,Risque
+2026-08-10,ACT-005,100.0,95.3,398.5,2394700,2026-07-20,,En cours,Valeur originale,2434800.0,-40100.0,Décroissance,OK,95.8,400.6,Non concerné,Décroissance,Cohérent,2,Risque
+2026-08-17,ACT-005,100.0,97.5,407.5,2393600,2026-07-20,,En cours,Valeur originale,2394700.0,-1100.0,Décroissance,OK,95.3,398.5,Non concerné,Décroissance,Cohérent,2,Risque
+2026-08-24,ACT-005,100.0,97.0,405.7,2348400,2026-07-20,,En cours,Valeur originale,2393600.0,-45200.0,Décroissance,OK,97.5,407.5,Non concerné,Décroissance,Cohérent,2,Risque
+2026-08-24,ACT-006,100.0,92.3,53.8,1244500,2026-07-02,,En cours,Valeur originale,1568000.0,-323500.0,Décroissance,OK,99.8,58.2,Non concerné,Décroissance,Cohérent,2,Risque
+2026-07-27,ACT-007,100.0,89.4,305.4,1640900,2026-06-19,,En cours,Valeur originale,1644000.0,-3100.0,Décroissance,OK,85.9,293.6,Non concerné,Décroissance,Cohérent,3,Critique
+2026-08-03,ACT-007,100.0,84.0,287.1,1290800,2026-06-19,,En cours,Valeur originale,1640900.0,-350100.0,Décroissance,OK,89.4,305.4,Non concerné,Décroissance,Cohérent,3,Critique
+2026-08-24,ACT-007,100.0,93.5,319.6,1758300,2026-06-19,,En cours,Valeur originale,1814500.0,-56200.0,Décroissance,OK,94.4,322.6,Non concerné,Décroissance,Cohérent,2,Risque
+2026-08-10,ACT-009,100.0,90.8,110.1,1096600,2026-07-15,,En cours,Valeur originale,1156600.0,-60000.0,Décroissance,OK,91.6,111.1,Non concerné,Décroissance,Cohérent,2,Risque
+2026-08-24,ACT-009,100.0,92.9,112.7,1190600,2026-07-15,,En cours,Valeur originale,1320400.0,-129800.0,Décroissance,OK,94.5,114.6,Non concerné,Décroissance,Cohérent,2,Risque
+2026-08-17,ACT-012,100.0,93.3,228.3,2673200,2026-07-20,,En cours,Valeur originale,2872300.0,-199100.0,Décroissance,OK,96.7,236.6,Non concerné,Décroissance,Cohérent,2,Risque
+2026-08-24,ACT-013,100.0,95.4,91.5,1259700,2026-07-20,,En cours,Valeur originale,1433100.0,-173400.0,Décroissance,OK,93.5,93.2,Non concerné,Décroissance,Cohérent,2,Risque
+2026-08-24,ACT-014,100.0,99.5,310.6,3006300,2026-07-11,,En cours,Valeur originale,3200700.0,-194400.0,Décroissance,OK,99.9,312.1,Non concerné,Décroissance,Cohérent,2,Risque
+2026-08-17,ACT-017,100.0,94.0,359.5,4259300,2026-07-30,,En cours,Valeur originale,4496300.0,-237000.0,Décroissance,OK,100.0,382.5,Non concerné,Décroissance,Cohérent,2,Risque
+2026-08-24,ACT-017,100.0,93.2,356.3,3531900,2026-07-30,,En cours,Valeur originale,4259300.0,-727400.0,Décroissance,OK,94.0,359.5,Non concerné,Décroissance,Cohérent,2,Risque
+2026-08-24,ACT-018,100.0,99.2,50.3,1194900,2026-08-05,,En cours,Valeur originale,1396100.0,-201200.0,Décroissance,OK,100.0,50.7,Non concerné,Décroissance,Cohérent,2,Risque
+2026-07-06,ACT-019,100.0,99.2,34.8,584600,2026-06-16,,En cours,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-13,ACT-019,100.0,97.5,34.2,506700,2026-06-16,,En cours,Valeur originale,584600.0,-77900.0,Décroissance,OK,99.2,34.8,Non concerné,Décroissance,Cohérent,2,Risque
+2026-07-20,ACT-019,100.0,91.0,31.9,495400,2026-06-16,,En cours,Valeur originale,506700.0,-11300.0,Décroissance,OK,97.5,34.2,Non concerné,Décroissance,Cohérent,2,Risque
+2026-08-10,ACT-019,100.0,90.5,31.8,510600,2026-06-16,,En cours,Valeur originale,560000.0,-49400.0,Décroissance,OK,96.9,34.0,Non concerné,Décroissance,Cohérent,2,Risque
+2026-08-17,ACT-019,100.0,92.9,32.6,476300,2026-06-16,,En cours,Valeur originale,510600.0,-34300.0,Décroissance,OK,90.5,31.8,Non concerné,Décroissance,Cohérent,2,Risque
+2026-07-20,ACT-021,100.0,96.9,216.4,1967200,2026-06-18,,En cours,Valeur originale,2112800.0,-145600.0,Décroissance,OK,93.0,207.7,Non concerné,Décroissance,Cohérent,2,Risque
+2026-08-03,ACT-021,100.0,98.5,220.0,1835100,2026-06-18,,En cours,Valeur originale,2130100.0,-295000.0,Décroissance,OK,93.0,207.7,Non concerné,Décroissance,Cohérent,2,Risque
+2026-08-24,ACT-021,100.0,90.2,201.5,1992800,2026-06-18,,En cours,Valeur originale,1995100.0,-2300.0,Décroissance,OK,93.0,207.6,Non concerné,Décroissance,Cohérent,2,Risque
+2026-08-24,ACT-023,100.0,96.3,54.1,4126600,2026-07-30,,En cours,Valeur originale,4181300.0,-54700.0,Décroissance,OK,96.4,54.2,Non concerné,Décroissance,Cohérent,2,Risque
+2026-07-06,ACT-026,100.0,84.2,235.9,2009700,2026-07-02,,En cours,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,2,Risque
+2026-07-20,ACT-026,100.0,84.2,235.9,2109000,2026-07-02,,En cours,Valeur originale,2485000.0,-376000.0,Décroissance,OK,83.4,233.7,Non concerné,Décroissance,Cohérent,3,Critique
+2026-07-27,ACT-027,100.0,95.4,291.4,945600,2026-06-16,,En cours,Valeur originale,962400.0,-16800.0,Décroissance,OK,95.2,290.8,Non concerné,Décroissance,Cohérent,2,Risque
+2026-08-03,ACT-032,100.0,86.7,247.7,553500,2026-06-19,,En cours,Valeur originale,629400.0,-75900.0,Décroissance,OK,87.3,249.1,Non concerné,Décroissance,Cohérent,3,Critique
+2026-08-24,ACT-034,100.0,96.9,475.3,684900,2026-07-14,,En cours,Valeur originale,791000.0,-106100.0,Décroissance,OK,96.1,471.1,Non concerné,Décroissance,Cohérent,2,Risque
+2026-07-27,ACT-035,100.0,94.0,185.4,342000,2026-06-22,,En cours,Valeur originale,397900.0,-55900.0,Décroissance,OK,98.7,194.6,Non concerné,Décroissance,Cohérent,2,Risque
+2026-08-03,ACT-035,100.0,96.3,190.0,340500,2026-06-22,,En cours,Valeur originale,342000.0,-1500.0,Décroissance,OK,94.0,185.4,Non concerné,Décroissance,Cohérent,2,Risque
+2026-08-17,ACT-035,100.0,94.2,185.8,360000,2026-06-22,,En cours,Valeur originale,361100.0,-1100.0,Décroissance,OK,97.5,192.2,Non concerné,Décroissance,Cohérent,2,Risque
+2026-07-20,ACT-036,100.0,83.5,290.1,1314300,2026-06-13,,En cours,Valeur originale,1562700.0,-248400.0,Décroissance,OK,84.6,293.7,Non concerné,Décroissance,Cohérent,3,Critique
+2026-08-17,ACT-036,100.0,94.5,328.1,1497900,2026-06-13,,En cours,Valeur originale,1629700.0,-131800.0,Décroissance,OK,93.2,323.6,Non concerné,Décroissance,Cohérent,2,Risque
+2026-08-03,ACT-038,100.0,99.2,428.4,3432200,2026-06-13,,En cours,Valeur originale,4025200.0,-593000.0,Décroissance,OK,100.0,432.1,Non concerné,Décroissance,Cohérent,2,Risque
+2026-08-17,ACT-039,100.0,99.5,210.2,2715800,2026-06-30,,En cours,Valeur originale,3233300.0,-517500.0,Décroissance,OK,100.0,211.3,Non concerné,Décroissance,Cohérent,2,Risque
+2026-08-17,ACT-043,100.0,95.8,409.2,1370000,2026-07-21,,En cours,Valeur originale,1480500.0,-110500.0,Décroissance,OK,98.7,421.6,Non concerné,Décroissance,Cohérent,2,Risque
+2026-07-13,ACT-045,100.0,97.9,221.5,1325600,2026-06-01,,En cours,Valeur originale,1393500.0,-67900.0,Décroissance,OK,100.0,226.3,Non concerné,Décroissance,Cohérent,2,Risque
+2026-07-20,ACT-045,100.0,94.4,213.6,1230800,2026-06-01,,En cours,Valeur originale,1325600.0,-94800.0,Décroissance,OK,97.9,221.5,Non concerné,Décroissance,Cohérent,2,Risque
+2026-08-10,ACT-045,100.0,98.3,222.4,1475600,2026-06-01,,En cours,Valeur originale,1503100.0,-27500.0,Décroissance,OK,98.4,222.7,Non concerné,Décroissance,Cohérent,2,Risque
+2026-08-24,ACT-045,100.0,96.8,219.0,1289800,2026-06-01,,En cours,Valeur originale,1486800.0,-197000.0,Décroissance,OK,100.0,226.3,Non concerné,Décroissance,Cohérent,2,Risque
+2026-08-17,ACT-047,100.0,98.8,89.6,3296700,2026-07-14,,En cours,Valeur originale,3919900.0,-623200.0,Décroissance,OK,100.0,90.7,Non concerné,Décroissance,Cohérent,2,Risque
+2026-08-24,ACT-056,100.0,93.1,168.9,351200,2026-07-29,,En cours,Valeur originale,380100.0,-28900.0,Décroissance,OK,98.7,179.0,Non concerné,Décroissance,Cohérent,2,Risque
+2026-07-06,ACT-057,100.0,95.0,321.3,2368200,2026-06-09,,En cours,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-13,ACT-057,100.0,93.7,317.0,2358800,2026-06-09,,En cours,Valeur originale,2368200.0,-9400.0,Décroissance,OK,95.0,321.3,Non concerné,Décroissance,Cohérent,2,Risque
+2026-08-10,ACT-058,100.0,90.9,216.5,1403300,2026-07-10,,En cours,Valeur originale,1474100.0,-70800.0,Décroissance,OK,99.8,237.9,Non concerné,Décroissance,Cohérent,2,Risque
+2026-08-24,ACT-058,100.0,94.1,224.3,1489000,2026-07-10,,En cours,Valeur originale,1698900.0,-209900.0,Décroissance,OK,100.0,238.3,Non concerné,Décroissance,Cohérent,2,Risque
+2026-07-06,ACT-059,100.0,83.7,233.5,304000,2026-06-18,,En cours,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,2,Risque
+2026-07-13,ACT-059,100.0,89.4,249.4,289000,2026-06-18,,En cours,Valeur originale,304000.0,-15000.0,Décroissance,OK,83.7,233.5,Non concerné,Décroissance,Cohérent,3,Critique
+2026-07-20,ACT-059,100.0,89.8,250.5,283000,2026-06-18,,En cours,Valeur originale,289000.0,-6000.0,Décroissance,OK,89.4,249.4,Non concerné,Décroissance,Cohérent,3,Critique
+2026-08-03,ACT-059,100.0,89.4,249.3,270600,2026-06-18,,En cours,Valeur originale,319800.0,-49200.0,Décroissance,OK,91.8,256.0,Non concerné,Décroissance,Cohérent,3,Critique
+2026-08-24,ACT-059,100.0,92.5,258.1,278900,2026-06-18,,En cours,Valeur originale,351200.0,-72300.0,Décroissance,OK,99.7,278.0,Non concerné,Décroissance,Cohérent,2,Risque
+2026-08-17,ACT-013,100.0,93.5,93.2,1433100,2026-07-20,,En cours,Valeur imputée,1355600.0,77500.0,Croissance,OK,91.5,87.8,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-13,ACT-002,100.0,93.0,30.4,2291600,2026-07-06,,En cours,Valeur originale,1224800.0,1066800.0,Croissance,OK,49.6,16.2,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-20,ACT-002,100.0,98.1,32.1,2476300,2026-07-06,,En cours,Valeur originale,2291600.0,184700.0,Croissance,OK,93.0,30.4,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-03,ACT-002,100.0,95.3,31.2,2336600,2026-07-06,,En cours,Valeur originale,2017400.0,319200.0,Croissance,OK,95.7,31.3,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-24,ACT-002,100.0,94.9,31.0,2206800,2026-07-06,,En cours,Valeur originale,2089100.0,117700.0,Croissance,OK,90.1,29.5,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-10,ACT-003,100.0,97.4,374.0,3987200,2026-07-09,,En cours,Valeur originale,3324400.0,662800.0,Croissance,OK,85.9,330.0,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-17,ACT-003,100.0,95.7,367.6,4023500,2026-07-09,,En cours,Valeur originale,3987200.0,36300.0,Croissance,OK,97.4,374.0,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-03,ACT-005,100.0,95.8,400.6,2434800,2026-07-20,,En cours,Valeur originale,2094800.0,340000.0,Croissance,OK,85.8,358.8,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-03,ACT-006,100.0,92.8,54.1,1380600,2026-07-02,,En cours,Valeur originale,1216000.0,164600.0,Croissance,OK,79.0,46.1,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-10,ACT-006,100.0,97.6,56.9,1455000,2026-07-02,,En cours,Valeur originale,1380600.0,74400.0,Croissance,OK,92.8,54.1,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-13,ACT-007,100.0,83.5,285.2,1296300,2026-06-19,,En cours,Valeur originale,1161700.0,134600.0,Croissance,OK,73.4,250.9,Non concerné,Normal,Cohérent,2,Risque
+2026-07-20,ACT-007,100.0,85.9,293.6,1644000,2026-06-19,,En cours,Valeur originale,1296300.0,347700.0,Croissance,OK,83.5,285.2,Non concerné,Normal,Cohérent,2,Risque
+2026-08-10,ACT-007,100.0,93.8,320.7,1618800,2026-06-19,,En cours,Valeur originale,1290800.0,328000.0,Croissance,OK,84.0,287.1,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-17,ACT-007,100.0,94.4,322.6,1814500,2026-06-19,,En cours,Valeur originale,1618800.0,195700.0,Croissance,OK,93.8,320.7,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-03,ACT-009,100.0,91.6,111.1,1156600,2026-07-15,,En cours,Valeur originale,1082500.0,74100.0,Croissance,OK,76.3,92.6,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-17,ACT-009,100.0,94.5,114.6,1320400,2026-07-15,,En cours,Valeur originale,1096600.0,223800.0,Croissance,OK,90.8,110.1,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-10,ACT-012,100.0,96.7,236.6,2872300,2026-07-20,,En cours,Valeur originale,1769500.0,1102800.0,Croissance,OK,67.2,164.3,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-24,ACT-012,100.0,92.9,227.3,2810800,2026-07-20,,En cours,Valeur originale,2673200.0,137600.0,Croissance,OK,93.3,228.3,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-27,ACT-013,100.0,91.2,87.5,1188800,2026-07-20,,En cours,Valeur originale,811700.0,377100.0,Croissance,OK,50.7,48.6,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-03,ACT-013,100.0,91.7,87.9,1340100,2026-07-20,,En cours,Valeur originale,1188800.0,151300.0,Croissance,OK,91.2,87.5,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-10,ACT-013,100.0,91.5,87.8,1355600,2026-07-20,,En cours,Valeur originale,1340100.0,15500.0,Croissance,OK,91.7,87.9,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-10,ACT-015,100.0,96.1,186.6,746900,2026-08-02,,En cours,Valeur originale,8800.0,738100.0,Croissance,OK,1.1,2.2,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-27,ACT-019,100.0,98.7,34.7,514400,2026-06-16,,En cours,Valeur originale,495400.0,19000.0,Croissance,OK,91.0,31.9,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-03,ACT-019,100.0,96.9,34.0,560000,2026-06-16,,En cours,Valeur originale,514400.0,45600.0,Croissance,OK,98.7,34.7,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-24,ACT-019,100.0,91.5,32.1,486400,2026-06-16,,En cours,Valeur originale,476300.0,10100.0,Croissance,OK,92.9,32.6,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-13,ACT-021,100.0,93.0,207.7,2112800,2026-06-18,,En cours,Valeur originale,1863900.0,248900.0,Croissance,OK,81.6,182.2,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-27,ACT-021,100.0,93.0,207.7,2130100,2026-06-18,,En cours,Valeur originale,1967200.0,162900.0,Croissance,OK,96.9,216.4,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-10,ACT-021,100.0,93.8,209.5,1860500,2026-06-18,,En cours,Valeur originale,1835100.0,25400.0,Croissance,OK,98.5,220.0,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-17,ACT-021,100.0,93.0,207.6,1995100,2026-06-18,,En cours,Valeur originale,1860500.0,134600.0,Croissance,OK,93.8,209.5,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-17,ACT-023,100.0,96.4,54.2,4181300,2026-07-30,,En cours,Valeur originale,2547700.0,1633600.0,Croissance,OK,71.3,40.1,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-13,ACT-026,100.0,83.4,233.7,2485000,2026-07-02,,En cours,Valeur originale,2009700.0,475300.0,Croissance,OK,84.2,235.9,Non concerné,Normal,Cohérent,2,Risque
+2026-07-27,ACT-026,100.0,88.4,247.7,2299400,2026-07-02,,En cours,Valeur originale,2109000.0,190400.0,Croissance,OK,84.2,235.9,Non concerné,Normal,Cohérent,2,Risque
+2026-08-03,ACT-026,100.0,86.7,243.0,2559400,2026-07-02,,En cours,Valeur originale,2299400.0,260000.0,Croissance,OK,88.4,247.7,Non concerné,Normal,Cohérent,2,Risque
+2026-08-10,ACT-026,100.0,98.0,274.6,2641500,2026-07-02,,En cours,Valeur originale,2559400.0,82100.0,Croissance,OK,86.7,243.0,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-17,ACT-026,100.0,96.9,271.5,2724700,2026-07-02,,En cours,Valeur originale,2641500.0,83200.0,Croissance,OK,98.0,274.6,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-20,ACT-027,100.0,95.2,290.8,962400,2026-06-16,,En cours,Valeur originale,962000.0,400.0,Croissance,OK,89.9,274.8,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-17,ACT-027,100.0,95.8,292.6,1088200,2026-06-16,,En cours,Valeur originale,990600.0,97600.0,Croissance,OK,100.0,305.6,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-24,ACT-028,100.0,97.9,265.2,2692200,2026-08-01,,En cours,Valeur originale,2233900.0,458300.0,Croissance,OK,78.0,211.4,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-20,ACT-032,100.0,87.2,248.8,548000,2026-06-19,,En cours,Valeur originale,456000.0,92000.0,Croissance,OK,66.4,189.5,Non concerné,Normal,Cohérent,2,Risque
+2026-07-27,ACT-032,100.0,87.3,249.1,629400,2026-06-19,,En cours,Valeur originale,548000.0,81400.0,Croissance,OK,87.2,248.8,Non concerné,Normal,Cohérent,2,Risque
+2026-08-17,ACT-032,100.0,91.9,262.2,627700,2026-06-19,,En cours,Valeur originale,624200.0,3500.0,Croissance,OK,100.0,285.5,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-24,ACT-032,100.0,98.4,281.1,663300,2026-06-19,,En cours,Valeur originale,627700.0,35600.0,Croissance,OK,91.9,262.2,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-17,ACT-034,100.0,96.1,471.1,791000,2026-07-14,,En cours,Valeur originale,700400.0,90600.0,Croissance,OK,87.1,426.9,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-20,ACT-035,100.0,98.7,194.6,397900,2026-06-22,,En cours,Valeur originale,313400.0,84500.0,Croissance,OK,89.2,176.0,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-10,ACT-035,100.0,97.5,192.2,361100,2026-06-22,,En cours,Valeur originale,340500.0,20600.0,Croissance,OK,96.3,190.0,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-24,ACT-035,100.0,93.7,184.8,391200,2026-06-22,,En cours,Valeur originale,360000.0,31200.0,Croissance,OK,94.2,185.8,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-13,ACT-036,100.0,84.6,293.7,1562700,2026-06-13,,En cours,Valeur originale,1419300.0,143400.0,Croissance,OK,74.7,259.4,Non concerné,Normal,Cohérent,2,Risque
+2026-07-27,ACT-036,100.0,87.4,303.7,1498100,2026-06-13,,En cours,Valeur originale,1314300.0,183800.0,Croissance,OK,83.5,290.1,Non concerné,Normal,Cohérent,2,Risque
+2026-08-03,ACT-036,100.0,89.1,309.4,1522600,2026-06-13,,En cours,Valeur originale,1498100.0,24500.0,Croissance,OK,87.4,303.7,Non concerné,Normal,Cohérent,2,Risque
+2026-08-10,ACT-036,100.0,93.2,323.6,1629700,2026-06-13,,En cours,Valeur originale,1522600.0,107100.0,Croissance,OK,89.1,309.4,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-24,ACT-036,100.0,97.8,339.7,1742800,2026-06-13,,En cours,Valeur originale,1497900.0,244900.0,Croissance,OK,94.5,328.1,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-13,ACT-038,100.0,98.2,424.3,4203400,2026-06-13,,En cours,Valeur originale,4117900.0,85500.0,Croissance,OK,100.0,432.1,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-24,ACT-038,100.0,98.9,427.3,4164100,2026-06-13,,En cours,Valeur originale,4070200.0,93900.0,Croissance,OK,100.0,432.1,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-17,ACT-041,100.0,98.8,168.6,3601800,2026-07-28,,En cours,Valeur originale,2638500.0,963300.0,Croissance,OK,82.3,140.4,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-10,ACT-043,100.0,98.7,421.6,1480500,2026-07-21,,En cours,Valeur originale,1321100.0,159400.0,Croissance,OK,77.3,330.2,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-24,ACT-043,100.0,93.5,399.2,1618100,2026-07-21,,En cours,Valeur originale,1370000.0,248100.0,Croissance,OK,95.8,409.2,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-24,ACT-044,100.0,94.6,320.9,960700,2026-08-18,,En cours,Valeur originale,82400.0,878300.0,Croissance,OK,8.0,27.1,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-03,ACT-045,100.0,98.4,222.7,1503100,2026-06-01,,En cours,Valeur originale,1312200.0,190900.0,Croissance,OK,100.0,226.3,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-27,ACT-047,100.0,98.5,89.4,3553100,2026-07-14,,En cours,Valeur originale,2986000.0,567100.0,Croissance,OK,75.5,68.5,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-27,ACT-049,100.0,99.5,267.2,4670000,2026-06-23,,En cours,Valeur originale,3280800.0,1389200.0,Croissance,OK,82.6,221.8,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-10,ACT-055,100.0,94.7,424.1,1729500,2026-07-13,,En cours,Valeur originale,1286700.0,442800.0,Croissance,OK,64.3,288.1,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-17,ACT-055,100.0,96.7,433.1,1860500,2026-07-13,,En cours,Valeur originale,1729500.0,131000.0,Croissance,OK,94.7,424.1,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-24,ACT-055,100.0,97.8,438.1,2029400,2026-07-13,,En cours,Valeur originale,1860500.0,168900.0,Croissance,OK,96.7,433.1,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-17,ACT-056,100.0,98.7,179.0,380100,2026-07-29,,En cours,Valeur originale,228600.0,151500.0,Croissance,OK,68.3,123.9,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-10,ACT-057,100.0,98.4,332.9,2926500,2026-06-09,,En cours,Valeur originale,2848600.0,77900.0,Croissance,OK,99.7,337.1,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-27,ACT-058,100.0,95.7,228.1,1535500,2026-07-10,,En cours,Valeur originale,1237800.0,297700.0,Croissance,OK,79.2,188.6,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-27,ACT-059,100.0,91.8,256.0,319800,2026-06-18,,En cours,Valeur originale,283000.0,36800.0,Croissance,OK,89.8,250.5,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-13,ACT-003,21.9,21.9,84.3,840100,2026-07-09,,En cours,Valeur originale,0.0,840100.0,Croissance,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-20,ACT-003,43.8,44.1,169.4,1900100,2026-07-09,,En cours,Valeur originale,840100.0,1060000.0,Croissance,OK,21.9,84.3,Non concerné,Normal,Cohérent,0,Normal
+2026-07-27,ACT-003,65.6,61.3,235.6,2554500,2026-07-09,,En cours,Valeur originale,1900100.0,654400.0,Croissance,OK,44.1,169.4,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-03,ACT-003,87.5,85.9,330.0,3324400,2026-07-09,,En cours,Valeur originale,2554500.0,769900.0,Croissance,OK,61.3,235.6,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-20,ACT-004,60.0,58.3,38.7,400000,2026-07-19,,En cours,Valeur originale,0.0,400000.0,Croissance,OK,0.0,0.0,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-20,ACT-005,11.1,2.0,8.5,48800,2026-07-20,,En cours,Valeur originale,0.0,48800.0,Croissance,OK,0.0,0.0,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-27,ACT-005,88.9,85.8,358.8,2094800,2026-07-20,,En cours,Valeur originale,48800.0,2046000.0,Croissance,OK,2.0,8.5,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-13,ACT-006,41.9,35.1,20.5,540600,2026-07-02,,En cours,Valeur originale,178800.0,361800.0,Croissance,OK,11.7,6.8,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-20,ACT-006,64.5,64.0,37.3,974800,2026-07-02,,En cours,Valeur originale,540600.0,434200.0,Croissance,OK,35.1,20.5,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-27,ACT-006,87.1,79.0,46.1,1216000,2026-07-02,,En cours,Valeur originale,974800.0,241200.0,Croissance,OK,64.0,37.3,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-20,ACT-008,6.7,10.2,33.4,413000,2026-07-18,,En cours,Valeur originale,0.0,413000.0,Croissance,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-27,ACT-008,53.3,62.0,202.7,2623000,2026-07-18,,En cours,Valeur originale,413000.0,2210000.0,Croissance,OK,10.2,33.4,Non concerné,Normal,Cohérent,0,Normal
+2026-07-20,ACT-009,47.4,46.8,56.8,596700,2026-07-15,,En cours,Valeur originale,0.0,596700.0,Croissance,OK,0.0,0.0,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-27,ACT-009,84.2,76.3,92.6,1082500,2026-07-15,,En cours,Valeur originale,596700.0,485800.0,Croissance,OK,46.8,56.8,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-03,ACT-010,45.5,52.7,72.9,728100,2026-07-31,,En cours,Valeur originale,0.0,728100.0,Croissance,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-27,ACT-012,36.8,31.8,77.7,787500,2026-07-20,,En cours,Valeur originale,0.0,787500.0,Croissance,OK,0.0,0.0,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-03,ACT-012,73.7,67.2,164.3,1769500,2026-07-20,,En cours,Valeur originale,787500.0,982000.0,Croissance,OK,31.8,77.7,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-20,ACT-013,60.0,50.7,48.6,811700,2026-07-20,,En cours,Valeur originale,0.0,811700.0,Croissance,OK,0.0,0.0,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-13,ACT-014,12.1,6.5,20.3,198800,2026-07-11,,En cours,Valeur originale,0.0,198800.0,Croissance,OK,0.0,0.0,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-20,ACT-014,33.3,24.5,76.7,796400,2026-07-11,,En cours,Valeur originale,198800.0,597600.0,Croissance,OK,6.5,20.3,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-27,ACT-014,54.5,50.6,158.1,1389200,2026-07-11,,En cours,Valeur originale,796400.0,592800.0,Croissance,OK,24.5,76.7,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-03,ACT-014,75.8,67.3,210.3,1990700,2026-07-11,,En cours,Valeur originale,1389200.0,601500.0,Croissance,OK,50.6,158.1,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-10,ACT-014,97.0,92.5,288.9,2445500,2026-07-11,,En cours,Valeur originale,1990700.0,454800.0,Croissance,OK,67.3,210.3,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-03,ACT-015,14.3,1.1,2.2,8800,2026-08-02,,En cours,Valeur originale,0.0,8800.0,Croissance,OK,0.0,0.0,Non concerné,Normal,Cohérent,2,Risque
+2026-08-03,ACT-017,69.2,67.3,257.2,2839500,2026-07-30,,En cours,Valeur originale,0.0,2839500.0,Croissance,OK,0.0,0.0,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-17,ACT-020,72.7,79.7,353.5,2611100,2026-08-16,,En cours,Valeur originale,0.0,2611100.0,Croissance,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-20,ACT-022,18.8,22.2,31.0,881900,2026-07-18,,En cours,Valeur originale,0.0,881900.0,Croissance,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-27,ACT-022,40.6,48.6,67.7,2067300,2026-07-18,,En cours,Valeur originale,881900.0,1185400.0,Croissance,OK,22.2,31.0,Non concerné,Normal,Cohérent,0,Normal
+2026-08-03,ACT-022,62.5,68.4,95.3,2836800,2026-07-18,,En cours,Valeur originale,2067300.0,769500.0,Croissance,OK,48.6,67.7,Non concerné,Normal,Cohérent,0,Normal
+2026-08-10,ACT-022,84.4,93.4,130.3,3516400,2026-07-18,,En cours,Valeur originale,2836800.0,679600.0,Croissance,OK,68.4,95.3,Non concerné,Normal,Cohérent,0,Normal
+2026-08-03,ACT-023,28.6,14.5,8.2,600300,2026-07-30,,En cours,Valeur originale,0.0,600300.0,Croissance,OK,0.0,0.0,Non concerné,Normal,Cohérent,2,Risque
+2026-08-10,ACT-023,78.6,71.3,40.1,2547700,2026-07-30,,En cours,Valeur originale,600300.0,1947400.0,Croissance,OK,14.5,8.2,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-27,ACT-024,18.2,17.3,75.4,434400,2026-07-23,,En cours,Valeur originale,0.0,434400.0,Croissance,OK,0.0,0.0,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-03,ACT-024,50.0,49.4,214.9,1239100,2026-07-23,,En cours,Valeur originale,434400.0,804700.0,Croissance,OK,17.3,75.4,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-10,ACT-024,81.8,88.4,384.6,2120400,2026-07-23,,En cours,Valeur originale,1239100.0,881300.0,Croissance,OK,49.4,214.9,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-025,30.0,36.7,136.0,1237200,2026-07-05,,En cours,Valeur originale,164100.0,1073100.0,Croissance,OK,5.6,20.9,Non concerné,Normal,Cohérent,0,Normal
+2026-07-20,ACT-025,65.0,70.6,261.7,2186900,2026-07-05,,En cours,Valeur originale,1237200.0,949700.0,Croissance,OK,36.7,136.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-027,94.1,89.9,274.8,962000,2026-06-16,,En cours,Valeur originale,820900.0,141100.0,Croissance,OK,72.7,222.1,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-03,ACT-028,35.7,34.0,92.1,926500,2026-08-01,,En cours,Valeur originale,0.0,926500.0,Croissance,OK,0.0,0.0,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-10,ACT-028,60.7,56.6,153.3,1633200,2026-08-01,,En cours,Valeur originale,926500.0,706700.0,Croissance,OK,34.0,92.1,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-17,ACT-028,85.7,78.0,211.4,2233900,2026-08-01,,En cours,Valeur originale,1633200.0,600700.0,Croissance,OK,56.6,153.3,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-13,ACT-029,92.9,97.2,232.7,2712500,2026-06-19,,En cours,Valeur originale,2180800.0,531700.0,Croissance,OK,79.4,190.3,Non concerné,Normal,Cohérent,0,Normal
+2026-08-10,ACT-030,40.0,46.5,87.1,368700,2026-08-03,,En cours,Valeur originale,0.0,368700.0,Croissance,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-08-17,ACT-030,86.7,85.7,160.8,720700,2026-08-03,,En cours,Valeur originale,368700.0,352000.0,Croissance,OK,46.5,87.1,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-17,ACT-031,27.6,37.1,182.8,617900,2026-08-16,,En cours,Valeur originale,0.0,617900.0,Croissance,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-08-24,ACT-031,51.7,60.2,296.5,998600,2026-08-16,,En cours,Valeur originale,617900.0,380700.0,Croissance,OK,37.1,182.8,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-032,80.0,66.4,189.5,456000,2026-06-19,,En cours,Valeur originale,309000.0,147000.0,Croissance,OK,47.5,135.7,Non concerné,Normal,Cohérent,2,Risque
+2026-08-10,ACT-033,27.3,28.0,127.5,371500,2026-08-04,,En cours,Valeur originale,0.0,371500.0,Croissance,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-08-17,ACT-033,59.1,53.6,244.4,708100,2026-08-04,,En cours,Valeur originale,371500.0,336600.0,Croissance,OK,28.0,127.5,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-24,ACT-033,90.9,84.0,383.1,1130100,2026-08-04,,En cours,Valeur originale,708100.0,422000.0,Croissance,OK,53.6,244.4,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-20,ACT-034,22.6,15.4,75.3,114200,2026-07-14,,En cours,Valeur originale,0.0,114200.0,Croissance,OK,0.0,0.0,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-27,ACT-034,45.2,39.5,193.4,317700,2026-07-14,,En cours,Valeur originale,114200.0,203500.0,Croissance,OK,15.4,75.3,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-03,ACT-034,67.7,65.4,320.7,534100,2026-07-14,,En cours,Valeur originale,317700.0,216400.0,Croissance,OK,39.5,193.4,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-10,ACT-034,90.3,87.1,426.9,700400,2026-07-14,,En cours,Valeur originale,534100.0,166300.0,Croissance,OK,65.4,320.7,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-13,ACT-035,95.8,89.2,176.0,313400,2026-06-22,,En cours,Valeur originale,241600.0,71800.0,Croissance,OK,63.7,125.6,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-13,ACT-037,57.1,59.1,62.7,1195100,2026-06-29,,En cours,Valeur originale,741700.0,453400.0,Croissance,OK,41.8,44.4,Non concerné,Normal,Cohérent,0,Normal
+2026-07-20,ACT-037,77.1,75.2,79.8,1414500,2026-06-29,,En cours,Valeur originale,1195100.0,219400.0,Croissance,OK,59.1,62.7,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-27,ACT-037,97.1,97.3,103.2,1755700,2026-06-29,,En cours,Valeur originale,1414500.0,341200.0,Croissance,OK,75.2,79.8,Non concerné,Normal,Cohérent,0,Normal
+2026-08-17,ACT-040,52.9,59.1,44.6,2453300,2026-08-16,,En cours,Valeur originale,0.0,2453300.0,Croissance,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-08-03,ACT-041,44.4,47.2,80.6,1412600,2026-07-28,,En cours,Valeur originale,0.0,1412600.0,Croissance,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-08-10,ACT-041,83.3,82.3,140.4,2638500,2026-07-28,,En cours,Valeur originale,1412600.0,1225900.0,Croissance,OK,47.2,80.6,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-27,ACT-043,53.8,46.7,199.4,766500,2026-07-21,,En cours,Valeur originale,0.0,766500.0,Croissance,OK,0.0,0.0,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-03,ACT-043,80.8,77.3,330.2,1321100,2026-07-21,,En cours,Valeur originale,766500.0,554600.0,Croissance,OK,46.7,199.4,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-10,ACT-044,0.0,8.0,27.1,85300,2026-08-18,,En cours,Valeur originale,0.0,85300.0,Croissance,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-046,65.2,72.6,328.6,1597600,2026-07-05,,En cours,Valeur originale,955600.0,642000.0,Croissance,OK,45.9,207.6,Non concerné,Normal,Cohérent,0,Normal
+2026-07-20,ACT-047,71.4,75.5,68.5,2986000,2026-07-14,,En cours,Valeur originale,0.0,2986000.0,Croissance,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-048,62.1,73.2,188.4,2555100,2026-06-29,,En cours,Valeur originale,1456300.0,1098800.0,Croissance,OK,41.8,107.7,Non concerné,Normal,Cohérent,0,Normal
+2026-07-20,ACT-048,86.2,98.5,253.5,3099600,2026-06-29,,En cours,Valeur originale,2555100.0,544500.0,Croissance,OK,73.2,188.4,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-049,62.5,66.7,179.0,3120100,2026-06-23,,En cours,Valeur originale,1966100.0,1154000.0,Croissance,OK,46.2,124.1,Non concerné,Normal,Cohérent,0,Normal
+2026-07-20,ACT-049,84.4,82.6,221.8,3280800,2026-06-23,,En cours,Valeur originale,3120100.0,160700.0,Croissance,OK,66.7,179.0,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-17,ACT-050,41.7,45.3,215.8,1255200,2026-08-12,,En cours,Valeur originale,0.0,1255200.0,Croissance,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-08-24,ACT-050,70.8,78.9,375.6,2429200,2026-08-12,,En cours,Valeur originale,1255200.0,1174000.0,Croissance,OK,45.3,215.8,Non concerné,Normal,Cohérent,0,Normal
+2026-08-03,ACT-051,40.0,45.4,192.1,1607600,2026-08-03,,En cours,Valeur originale,0.0,1607600.0,Croissance,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-08-10,ACT-051,86.7,90.7,383.8,3151900,2026-08-03,,En cours,Valeur originale,1607600.0,1544300.0,Croissance,OK,45.4,192.1,Non concerné,Normal,Cohérent,0,Normal
+2026-07-20,ACT-053,0.0,6.9,8.5,65000,2026-07-18,,En cours,Valeur originale,0.0,65000.0,Croissance,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-27,ACT-053,24.1,31.1,38.1,270300,2026-07-18,,En cours,Valeur originale,65000.0,205300.0,Croissance,OK,6.9,8.5,Non concerné,Normal,Cohérent,0,Normal
+2026-08-03,ACT-053,48.3,56.0,68.7,500200,2026-07-18,,En cours,Valeur originale,270300.0,229900.0,Croissance,OK,31.1,38.1,Non concerné,Normal,Cohérent,0,Normal
+2026-08-10,ACT-053,72.4,75.4,92.5,736100,2026-07-18,,En cours,Valeur originale,500200.0,235900.0,Croissance,OK,56.0,68.7,Non concerné,Normal,Cohérent,0,Normal
+2026-07-27,ACT-054,15.8,18.1,54.2,762500,2026-07-24,,En cours,Valeur originale,0.0,762500.0,Croissance,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-08-03,ACT-054,52.6,54.1,162.7,1955200,2026-07-24,,En cours,Valeur originale,762500.0,1192700.0,Croissance,OK,18.1,54.2,Non concerné,Normal,Cohérent,0,Normal
+2026-08-10,ACT-054,89.5,96.2,288.9,3778300,2026-07-24,,En cours,Valeur originale,1955200.0,1823100.0,Croissance,OK,54.1,162.7,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-055,12.9,2.7,12.1,56000,2026-07-13,,En cours,Valeur originale,0.0,56000.0,Croissance,OK,0.0,0.0,Non concerné,Normal,Cohérent,2,Risque
+2026-07-20,ACT-055,35.5,19.9,89.2,383400,2026-07-13,,En cours,Valeur originale,56000.0,327400.0,Croissance,OK,2.7,12.1,Non concerné,Normal,Cohérent,2,Risque
+2026-07-27,ACT-055,58.1,48.9,219.0,818400,2026-07-13,,En cours,Valeur originale,383400.0,435000.0,Croissance,OK,19.9,89.2,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-03,ACT-055,80.6,64.3,288.1,1286700,2026-07-13,,En cours,Valeur originale,818400.0,468300.0,Croissance,OK,48.9,219.0,Non concerné,Normal,Cohérent,2,Risque
+2026-08-03,ACT-056,36.4,21.2,38.5,78300,2026-07-29,,En cours,Valeur originale,0.0,78300.0,Croissance,OK,0.0,0.0,Non concerné,Normal,Cohérent,2,Risque
+2026-08-10,ACT-056,68.2,68.3,123.9,228600,2026-07-29,,En cours,Valeur originale,78300.0,150300.0,Croissance,OK,21.2,38.5,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-058,47.4,45.3,107.9,687000,2026-07-10,,En cours,Valeur originale,0.0,687000.0,Croissance,OK,0.0,0.0,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-20,ACT-058,84.2,79.2,188.6,1237800,2026-07-10,,En cours,Valeur originale,687000.0,550800.0,Croissance,OK,45.3,107.9,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-13,ACT-060,51.5,59.0,54.9,198500,2026-06-29,,En cours,Valeur originale,118100.0,80400.0,Croissance,OK,37.7,35.1,Non concerné,Normal,Cohérent,0,Normal
+2026-07-20,ACT-060,72.7,73.6,68.5,220400,2026-06-29,,En cours,Valeur originale,198500.0,21900.0,Croissance,OK,59.0,54.9,Non concerné,Normal,Cohérent,0,Normal
+2026-07-27,ACT-060,93.9,93.9,87.4,344900,2026-06-29,,En cours,Valeur originale,220400.0,124500.0,Croissance,OK,73.6,68.5,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-001,63.6,67.3,232.0,2102200,2026-06-28,,En cours,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-002,57.1,49.6,16.2,1224800,2026-07-06,,En cours,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-06,ACT-006,19.4,11.7,6.8,178800,2026-07-02,,En cours,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-06,ACT-007,83.3,73.4,250.9,1161700,2026-06-19,,En cours,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-06,ACT-011,78.3,80.7,308.7,1856300,2026-06-20,,En cours,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-016,87.1,92.8,74.6,2046300,2026-06-15,,En cours,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-021,82.1,81.6,182.2,1863900,2026-06-18,,En cours,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-06,ACT-025,0.0,5.6,20.9,164100,2026-07-05,,En cours,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-027,73.5,72.7,222.1,820900,2026-06-16,,En cours,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-06,ACT-029,67.9,79.4,190.3,2180800,2026-06-19,,En cours,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-032,60.0,47.5,135.7,309000,2026-06-19,,En cours,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,2,Risque
+2026-07-06,ACT-035,66.7,63.7,125.6,241600,2026-06-22,,En cours,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-06,ACT-036,85.7,74.7,259.4,1419300,2026-06-13,,En cours,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,2,Risque
+2026-07-06,ACT-037,37.1,41.8,44.4,741700,2026-06-29,,En cours,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-08-17,ACT-044,63.6,8.0,27.1,82400,2026-08-18,,En cours,Valeur originale,85300.0,-2900.0,Décroissance,OK,8.0,27.1,Non concerné,Décroissance,Cohérent,3,Critique
+2026-07-06,ACT-046,34.8,45.9,207.6,955600,2026-07-05,,En cours,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-048,37.9,41.8,107.7,1456300,2026-06-29,,En cours,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-049,40.6,46.2,124.1,1966100,2026-06-23,,En cours,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-052,89.7,97.3,146.3,1480200,2026-06-18,,En cours,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-060,30.3,37.7,35.1,118100,2026-06-29,,En cours,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-08-24,ACT-040,94.1,100.0,75.4,4336500,2026-08-16,2026-09-04,Terminée,Valeur originale,2453300.0,1883200.0,Croissance,OK,59.1,44.6,Non concerné,Normal,Cohérent,0,Normal
+2026-07-20,ACT-046,95.7,100.0,452.6,2102400,2026-07-05,2026-07-26,Terminée,Valeur originale,1597600.0,504800.0,Croissance,OK,72.6,328.6,Non concerné,Normal,Cohérent,0,Normal
+2026-08-17,ACT-053,96.6,99.7,122.4,948800,2026-07-18,2026-08-27,Terminée,Valeur originale,736100.0,212700.0,Croissance,OK,75.4,92.5,Non concerné,Normal,Incohérent,1,À surveiller
+2026-07-06,ACT-003,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-004,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-005,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-008,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-009,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-010,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-012,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-013,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-014,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-015,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-017,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-018,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-020,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-022,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-023,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-024,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-028,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-030,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-031,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-033,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-034,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-040,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-041,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-042,37.5,0.0,0.0,0,,,Non démarrée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,2,Risque
+2026-07-06,ACT-043,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-044,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-047,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-050,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-051,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-053,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-054,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-055,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-056,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,0,Normal
+2026-07-06,ACT-058,10.5,0.0,0.0,0,,,Non démarrée,Valeur originale,,,Pas de comparaison,OK,,,Non concerné,Normal,Cohérent,2,Risque
+2026-07-13,ACT-009,10.5,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,2,Risque
+2026-07-27,ACT-017,15.4,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,2,Risque
+2026-08-03,ACT-018,60.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,2,Risque
+2026-08-10,ACT-020,9.1,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-27,ACT-028,10.7,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,2,Risque
+2026-08-10,ACT-031,3.4,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,1,À surveiller
+2026-08-10,ACT-040,11.8,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,2,Risque
+2026-07-27,ACT-041,5.6,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-20,ACT-043,26.9,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,2,Risque
+2026-07-13,ACT-047,21.4,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,2,Risque
+2026-08-10,ACT-050,12.5,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,2,Risque
+2026-07-27,ACT-056,4.5,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,1,À surveiller
+2026-07-13,ACT-004,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-005,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-008,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-010,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-20,ACT-010,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-27,ACT-010,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-012,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-20,ACT-012,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-013,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-015,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-20,ACT-015,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-27,ACT-015,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-017,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-20,ACT-017,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-018,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-20,ACT-018,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-27,ACT-018,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-020,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-20,ACT-020,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-27,ACT-020,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-08-03,ACT-020,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-022,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-023,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-20,ACT-023,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-27,ACT-023,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-024,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-20,ACT-024,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-028,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-20,ACT-028,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-030,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-20,ACT-030,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-27,ACT-030,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-08-03,ACT-030,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-031,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-20,ACT-031,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-27,ACT-031,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-08-03,ACT-031,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-033,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-20,ACT-033,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-27,ACT-033,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-08-03,ACT-033,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-034,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-040,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-20,ACT-040,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-27,ACT-040,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-08-03,ACT-040,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-041,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-20,ACT-041,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-043,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-044,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-20,ACT-044,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-27,ACT-044,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-08-03,ACT-044,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-050,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-20,ACT-050,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-27,ACT-050,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-08-03,ACT-050,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-051,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-20,ACT-051,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-27,ACT-051,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-053,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-054,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-20,ACT-054,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-13,ACT-056,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
+2026-07-20,ACT-056,0.0,0.0,0.0,0,,,Non démarrée,Valeur originale,0.0,0.0,Stable,OK,0.0,0.0,Non concerné,Normal,Cohérent,0,Normal
